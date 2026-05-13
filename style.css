@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cause:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body {
+  color: #430749;
+  background-color: #eee0ff;
+  text-align: justify;
+
+  font-family: "Cause", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+h2 {
+  border-color: #430749;
+  border-style: solid;
+  border-width: 2px 0 0 12px;
+
+  padding: 5px 8px;
+}
